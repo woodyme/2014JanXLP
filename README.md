@@ -1,2 +1,4 @@
-2014JanXLP
+2014JanXLP 
 ==========
+
+Learning to use GitHub.
