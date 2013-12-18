@@ -1,9 +1,12 @@
-l2014JanXLP 
+Project XLP 2014 Jan
 ==========
 
-Learning to use GitHub.
+This project is dedicated to information related to XLP activity development for January 2014.
 
- 
-Ben edits.
+This is the first time that we started using version control services to track all project activities.
 
-Ben edits again. 
+The content of this project should include:
+
+1. Human Organization Design Documents
+2. Activity Design Documents. (some multi-media files, but for large video or image files, put it in a separate directory.)
+3. A small set of template documents in various formats. Say Words, Mathematica, Matlab scripts, and some Java, JavaScript code.
